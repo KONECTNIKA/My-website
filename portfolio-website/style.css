@@ -4,14 +4,14 @@
     background-color: lightgray;
 }
 .wrapper{
-    background-color:lightgoldenrodyellow;
+    background-color:rgba(250, 250, 210, 0.712);
 }
 .main-body{
     text-align: center;
 }
 .my-name{
     text-align: center;
-    padding: 2rem;
+    padding: 3rem;
 }
 .my-picture{
     width: 10rem;
