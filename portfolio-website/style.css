@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    background-color: lightgray;
+}
+.wrapper{
+    background-color:lightgoldenrodyellow;
+}
+.main-body{
+    text-align: center;
+}
+.my-name{
+    text-align: center;
+    padding: 2rem;
+}
+.my-picture{
+    width: 10rem;
+    height:10rem;
+    margin-left:5rem;
+    align-content: center;
+}
